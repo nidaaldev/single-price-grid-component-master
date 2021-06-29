@@ -109,7 +109,7 @@ body {
     overflow: hidden;
     padding: 50px;
     border-bottom-right-radius: 10px;
-}
+}   
 
 .contenedor .why article {
     color: #fff;
@@ -130,12 +130,6 @@ body {
     .contenedor {
         width: 70%;
     }
-}
-
-@media screen and (max-width: 775px) {
-    .contenedor {
-        width: 70%;
-    }
 
     .contenedor .main {
         width: 100%;
@@ -144,6 +138,5 @@ body {
 
     .contenedor .why {
         width: 100%;
-        border-bottom-left-radius: 10px;
     }
 }
